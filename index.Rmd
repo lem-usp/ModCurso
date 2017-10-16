@@ -1,6 +1,7 @@
 ---
 title: "III Escuela Latinoamericana de Evolución"
 subtitle: "**BIO5751-4** *Quantitative genetics: from genes to phenotypes and its evolution*"
+date: "05/12/2017 - 18/12/2017"
 output:
   html_document:
     number_sections: false
@@ -44,6 +45,13 @@ Most of the characters of economic, ecological and evolutionary interest are qua
 - [Julien Ayroles](http://www.ayroleslab.com/)
 
 - [Jason Wolf](http://www.evolutionarygenetics.org/)
+
+# Details
+
+- Dates: 05/12/2017 - 18/12/2017
+- Time: 14h às 18h 
+- Credits: 04 
+- Available places: 50, including special students
 
 # Registration
 
