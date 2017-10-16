@@ -1,5 +1,6 @@
 ---
-title: "**BIO5751-4** *Quantitative genetics: from genes to phenotypes and its evolution*"
+title: "III Escuela Latinoamericana de Evolución"
+subtitle: "**BIO5751-4** *Quantitative genetics: from genes to phenotypes and its evolution*"
 output:
   html_document:
     number_sections: false
@@ -34,12 +35,18 @@ Most of the characters of economic, ecological and evolutionary interest are qua
 
 - Lynch and Walsh (1998) - Genetics and Analysis of Quantitative Traits - Sinauer Associates
 
-# Staff
+# Teachers
 
-- Gabriel Marroig
+- [Gabriel Marroig](http://www.ib.usp.br/depto-genetica-bio-evolutiva/corpo-docente/533-prof-dr-gabriel-henrique-marroig-zambonato.html)
 
-- Diogo Meyer
+- [Diogo Meyer](http://www.ib.usp.br/genevol/)
 
-- Julien Ayroles
+- [Julien Ayroles](http://www.ayroleslab.com/)
 
-- Jason Wolf
+- [Jason Wolf](http://www.evolutionarygenetics.org/)
+
+# Registration
+
+- Aluno do IB/USP traz o [formulário](files/Matricula_Aluno_Regular.rtf) preenchido e assinado;
+- Aluno USP faz matrícula no Janus em sua secretaria de Pós-Graduação;
+- Alunos externos fazem inscrição por e-mail, conforme instruções em( [http://www.ib.usp.br/cpg/matricula/especial.html](http://www.ib.usp.br/cpg/matricula/especial.html)
